@@ -1,7 +1,7 @@
 import { useRoutes }  from 'react-router-dom'
 import './App.css'
 import ProductDetails from './pages/ProductDetails'
-import Home from './pages/home'
+import Home from './pages/Home'
 import ShoppingCart from './pages/ShoppingCart'
 
 
