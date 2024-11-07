@@ -7,6 +7,7 @@ import ShoppingCart from './pages/ShoppingCart'
 
 
 function App() {
+  console.log("App is rendering")
   let element = useRoutes(
     [
       {
